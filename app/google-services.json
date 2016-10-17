@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221469973210",
+    "firebase_url": "https://chat-f8ed1.firebaseio.com",
+    "project_id": "chat-f8ed1",
+    "storage_bucket": "chat-f8ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221469973210:android:897dcc0be182feb6",
+        "android_client_info": {
+          "package_name": "com.bridgelabz.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221469973210-v2uv1vkklbeisp5t24dpcp6ape10dgt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bridgelabz.chat",
+            "certificate_hash": "160961BA52A98D0DE56638E75D962D5BCA93A026"
+          }
+        },
+        {
+          "client_id": "221469973210-f4ipq02hap79coel2pi8r7e125it9teo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADumEzF7dxOTLmU0fqYh_j4IYgQk6xjfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221469973210-f4ipq02hap79coel2pi8r7e125it9teo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
